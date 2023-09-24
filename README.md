@@ -1,1 +1,1 @@
-# StarCraft
+# The video demo of GCEN.
